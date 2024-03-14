@@ -1,0 +1,19 @@
+.main-cartegory{
+    width:100vw;
+    height:100vh;
+    position: absolute;
+    top:80px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    color: white;
+}
+.main-cartegory2{
+    width:100vw;
+    height:100vh;
+    position: absolute;
+    top:80px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}

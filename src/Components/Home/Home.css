@@ -1,0 +1,50 @@
+.app-main{
+    width:100vw;
+    height:auto;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+
+}
+
+.app-main-2{
+    width:100vw;
+    height:auto;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    background-color: rgba(0, 0, 0, .5);
+}
+
+
+.app-main-secondDiv{
+     width:95%;
+    height:auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap:10px;
+    margin: 0 auto;
+    position: absolute;
+    top:70px;
+    
+
+}
+
+.app-main-secondDiv-2{
+    width:95%;
+    height:auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap:10px;
+    margin: 0 auto;
+    /* position: absolute;
+    top:70px */
+    margin-top: 70px;
+}
+
+
+/* .app-main:active{
+    background-color: red;
+} */
